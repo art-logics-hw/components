@@ -1,9 +1,18 @@
 # Curated List of Electronic Components
 
-* KiCAD
+Curated list of common compoments used in ART Logics
+
+## Key Contents
+
+* Part numbers
+  - LCSC
+  - Digi-Key
+* KiCAD or Eagle Libs
   - schematic libs
   - footprints
   - 3D models
+
+## List
 
 PN | Manufacturer | Description | Digi-Key PN | LCSC PN | Added Here On
 ---|--------------|-------------|-------------|---------|--------------
